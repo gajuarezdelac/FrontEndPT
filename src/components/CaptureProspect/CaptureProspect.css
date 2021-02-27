@@ -1,0 +1,8 @@
+
+select {
+    outline: none !important;
+    box-shadow: 0 0 3pt 2pt #616b75;
+    border: none;
+    width: 100%;
+    padding: 6px;
+}
